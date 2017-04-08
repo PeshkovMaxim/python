@@ -1,4 +1,4 @@
-#!/bin/ env python
+#!/usr/bin/ env python
 import socket
 req = "Hello tcp!"
 s = socket.socket(socket.AF_INET , socket.SOCK_STREAM)
